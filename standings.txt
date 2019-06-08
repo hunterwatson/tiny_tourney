@@ -1,0 +1,22 @@
+{
+    "alpha": {
+        "losses": 1,
+        "ties": 1,
+        "wins": 0
+    },
+    "beta": {
+        "losses": 0,
+        "ties": 0,
+        "wins": 5
+    },
+    "charlie": {
+        "losses": 0,
+        "ties": 0,
+        "wins": 1
+    },
+    "delta": {
+        "losses": 0,
+        "ties": 1,
+        "wins": 1
+    }
+}
